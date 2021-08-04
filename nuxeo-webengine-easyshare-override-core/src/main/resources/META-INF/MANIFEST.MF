@@ -1,0 +1,11 @@
+Bundle-ActivationPolicy: lazy
+Bundle-ClassPath: .
+Manifest-Version: 1.0
+Bundle-Vendor: org.acme.webengine
+Bundle-Version: 1.0.0
+Bundle-Name: nuxeo-webengine-easyshare-override
+Bundle-ManifestVersion: 2
+Bundle-SymbolicName: org.acme.webengine.nuxeo-webengine-easyshare-override;singleton=true
+Nuxeo-WebModule:  org.nuxeo.ecm.webengine.app.WebEngineModule;name=customeasyshare;extends=easyshare;headless=true
+Fragment-Host: nuxeo-easyshare-core
+
