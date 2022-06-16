@@ -9,7 +9,7 @@
 
   <groupId>org.acme</groupId>
   <artifactId>nuxeo-webengine-easyshare-override-parent</artifactId>
-  <version>1.0.0</version>
+  <version>1.0.1</version>
   <name>Nuxeo webengine easyshare override parent</name>
   <description />
   <packaging>pom</packaging>
